@@ -1,3 +1,3 @@
-# rainydays
+# Rainy Days
 Git repository for Noroff project.
-Rainy Days Website
+'Rainy Days' Website
